@@ -1,0 +1,22 @@
+# Local development
+.claude/
+.env
+.env.local
+*.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.screenshot.png
+Screenshot*.png
+
+# Build artifacts
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

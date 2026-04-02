@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://chlorisfruits.com</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/hero-brand-collage-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>CHLORIS Fresh Pre-Cut Fruit Mix</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/mango-pre-cut-fresh-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Pre-cut Mango 300g</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/watermelon-pre-cut-fresh-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Pre-cut Watermelon 300g</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/banana-baby-pre-cut-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Pre-cut Baby Banana 300g</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/grape-autumn-crisp-australia-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Autumn Crisp Australia Grapes 100g</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/dragon-fruit-white-pre-cut-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Pre-cut White Dragon Fruit 300g</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/mix-box-3-fruits-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Mix Box 3 Fruits 100g Each</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://chlorisfruits.com/images/juicy-mix-box-4-fruits-chlorisfruits-chloris-fruits.webp</image:loc>
+      <image:title>Juicy Mix Box 4 Fruits 50g Each</image:title>
+    </image:image>
+  </url>
+</urlset>

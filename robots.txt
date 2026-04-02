@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /*.json$
+
+Sitemap: https://chlorisfruits.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
